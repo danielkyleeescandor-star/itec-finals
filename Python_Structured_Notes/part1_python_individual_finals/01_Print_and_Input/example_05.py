@@ -1,0 +1,5 @@
+item = input("Item: ")
+price = float(input("Price: "))
+print("--- RECEIPT ---")
+print("Item:", item)
+print("Price: PHP", price)

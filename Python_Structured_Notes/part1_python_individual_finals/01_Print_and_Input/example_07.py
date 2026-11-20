@@ -1,0 +1,7 @@
+name = input("Student name: ")
+course = input("Course: ")
+year = input("Year level: ")
+print("\nSTUDENT PROFILE")
+print("Name:", name)
+print("Course:", course)
+print("Year:", year)
